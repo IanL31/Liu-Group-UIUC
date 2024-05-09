@@ -1,8 +1,0 @@
-/control/cout/ignoreThreadsExcept 0
-/control/verbose 2
-/run/verbose 1
-
-/tracking/verbose 0
-
-/run/printProgress 2000000
-/run/beamOn 20000000
